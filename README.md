@@ -1,8 +1,18 @@
-# React + Vite
+# The Wild Oasis
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Mô tả dự án
+The Wild Oasis là một khách sạn nhỏ với 8 cabins gỗ sang trọng. Ứng dụng này được thiết kế để giúp người dùng nội bộ của khách sạn có thể quản lý các thông tin như bookings, cabins và khách hàng.
 
-Currently, two official plugins are available:
+## Tech Stack
+- **React Router**
+- **Styled Components**
+- **React Query**
+- **Context API**
+- **React Hook Form**
+- **Others** : React icons/React hot toast/Recharts/date-fns/Supabase
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Link Deploy
+Trang web đã được triển khai và có thể truy cập tại: [The Wild Oasis.](https://<username>.github.io/<repository-name>/)
+
+
+
