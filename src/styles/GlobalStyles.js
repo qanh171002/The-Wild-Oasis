@@ -183,6 +183,8 @@ FOR DARK MODE
 --image-opacity: 90%;
 */
 
+
+
 `;
 
 export default GlobalStyles;
