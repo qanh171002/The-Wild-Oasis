@@ -36,6 +36,9 @@ function UpdateSettingsForm() {
     const { value } = e.target;
 
     if (!value) return;
+    if (settings[field] === Number(value)) {
+      return;
+    }
     updateSetting({ [field]: value });
   }
 
